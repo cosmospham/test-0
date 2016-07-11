@@ -1,2 +1,3 @@
 abc
 file 1
+new
